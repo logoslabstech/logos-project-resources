@@ -1,0 +1,10 @@
+# LaTex Compilation
+*.gz
+*.toc
+*.xml
+*.out
+*.log
+*.blg
+*.bbl
+*.aux
+*-blx.bib

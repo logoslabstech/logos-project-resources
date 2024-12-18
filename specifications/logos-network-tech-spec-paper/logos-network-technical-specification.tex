@@ -1,0 +1,36 @@
+% Document Class Definition
+\documentclass[11pt, a4paper]{article}
+
+% Import PREAMBLE
+\input{preamble.tex}
+% Import METADATA
+\input{metadata.tex}
+
+% DOCUMENT BEGIN
+%---------------
+\begin{document}
+\maketitle
+
+% RELEASE HISTORY
+\releasehistory
+
+% Import Abstract
+\input{content/abstract.tex}
+
+% TABEL OF CONTENT
+\tableofcontents
+\newpage
+
+% Import Introduction
+\input{content/introduction.tex}
+
+% REFERENCES
+\newpage   
+\printbibliography
+
+% GLOSSARY
+\newpage
+
+\input{content/glossary.tex}
+
+\end{document}
