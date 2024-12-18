@@ -7,21 +7,25 @@
 > [!NOTE]  
 > Since the project is in the early stages, the structure of the project may change or may be extended.
 
-- **Additional resources** (/additional-resources):
+- **Additional resources** (/additional-resources):  
 This section contains supplementary materials that support the understanding, implementation, or expansion of the Logos Project. These resources include external references and auxiliary documentation.
 
-- **Archive** (/archive):
+- **Archive** (/archive):  
 This section hosts outdated or superseded documents, such as older concept papers and drafts. These are preserved for historical reference and to provide context on the evolution of the Logos Network.
 
-- **Research** (/research):
+- **Concepts** (/concepts):  
+his section includes foundational documents outlining the core ideas, principles, and initial designs related to the Logos Project. 
+These materials provide insight into the conceptual framework that guides the development and implementation of the project.
+
+- **Research** (/research):  
 This section contains individual research papers developed by LogosLabs or in collaboration with other entities.
 These papers explore topics relevant to the development and provision of the Logos Network.
 All research materials are also available in [wiki-format](https://docs.logoslabs.io/research/research-overview) within the Logos documentation.
 
-- **RFCs** (/rfcs):
+- **RFCs** (/rfcs):  
 Here, you will find Requests for Comments (RFCs) that outline proposals, discussions, and decisions regarding the technical design and development of the Logos Network. RFCs serve as a structured process for community feedback and collaboration.
 
-- **Specifications** (/specifications):
+- **Specifications** (/specifications):  
 This section contains the official technical specifications for the Logos Network. These documents provide precise details on protocols, standards, and implementations required to build and maintain the network.
 
 > [!NOTE]  
